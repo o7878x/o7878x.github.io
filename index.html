@@ -61,7 +61,7 @@
     function initText() {
         var loader = new THREE.FontLoader();
         var path = "./font/droid_sans_mono_regular.typeface.json";
-        var text = "Happy birthday!";
+        var text = "Don't be evil!";
 
         loader.load(path, function(font) {
             textMesh = createTextMesh(font, text);
@@ -142,6 +142,12 @@
 
     function initScene() {
         scene = new THREE.Scene();
+
+        var path = "./img/Bridge2/";
+        var names = [ "posx.jpg", "negx.jpg", "posy.jpg", "negy.jpg", "posz.jpg", "negz.jpg" ]
+        var loader = new THREE.CubeTextureLoader();
+
+        scene.background = loader.setPath(path).load(names);
     };
 
     function initCamera() {
@@ -168,7 +174,7 @@
 
     function onWindowResize(event) {
         var height = window.innerHeight;
-        var width = window.innerHeight;
+        var width = window.innerWidth;
 
         camera.aspect = width / height;
         camera.updateProjectionMatrix();
