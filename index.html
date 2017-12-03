@@ -3,11 +3,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Kaikai wang's birthday page</title>
+    <title>WebGL Design Motion</title>
     <meta name="viewpor" content="width=device-width, initial-scale=1, maximum-scale=1" charset="utf-8">
     <script src="./js/three.min.js" type="text/javascript"></script>
     <script src="./js/OrbitControls.js" type="text/javascript"></script>
     <script src="./js/CameraLight.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="./img/favicon.ico">
+
     <style>
     body {
         margin: 0;
@@ -62,18 +64,23 @@
     function initText() {
         var loader = new THREE.FontLoader();
         var path = "./font/droid_sans_mono_regular.typeface.json";
-        var text = "Don't be evil!";
 
         loader.load(path, function(font) {
+	        var text = "Don't be evil!";
             textMesh = createTextMesh(font, text);
             scene.add(textMesh);
             textMesh.position.y += 600;
+
+            text = "To be a good man.";
+            textMesh = createTextMesh(font, text);
+            scene.add(textMesh);
+            textMesh.position.y -= 600;
         });
 
         function createTextMesh(font, text, pos) {
             var parameters = { font: font, size: 80, height: 5, curveSegments: 12, bevelEnabled: true, bevelThickness: 10, bevelSize: 8, bevelSegments: 5 };
             var geometry = new THREE.TextGeometry(text, parameters);
-            var material = new THREE.MeshPhongMaterial({ color: 0xff9933, flatShading: true });
+            var material = new THREE.MeshPhongMaterial({ color: 0xffffff, envMap: scene.background, refractionRatio: 0.95, flatShading: true});
             var textMesh = new THREE.Mesh(geometry, material);
             pos = pos || getTargetPos(textMesh);
             textMesh.position.copy(pos);
@@ -186,14 +193,11 @@
         renderer.render(scene, camera);
 
         step += 0.04;
-        textMesh = tor;
-        //textMesh.rotation.x += 0.02;
-        if (textMesh !== undefined) {
-        	textMesh.rotation.y += 0.02;
-        	textMesh.rotation.x += 0.02;
-        	textMesh.rotation.z += 0.02;
+        if (tor !== undefined) {
+        	tor.rotation.y += 0.02;
+        	tor.rotation.x += 0.02;
+        	tor.rotation.z += 0.02;
         };
-
 
         window.requestAnimationFrame(render);
     };
