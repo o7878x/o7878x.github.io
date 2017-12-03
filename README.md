@@ -1,2 +1,2 @@
 # o7878x.github.io
-Foolish Webpage Design
+Advanced web design for fun!
