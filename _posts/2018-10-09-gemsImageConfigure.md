@@ -3,7 +3,7 @@ layout: post
 title: "Gems镜像源配置"
 date: 2018-10-09
 excerpt: "简单介绍Gems镜像源配置方法。"
-tags: [sample post, readability, test]
+tags: [ruby, gems, image]
 comments: true
 ---
 
