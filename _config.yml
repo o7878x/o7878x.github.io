@@ -62,8 +62,8 @@ steam:              o7878x
 #xmpp:              username@server.com
 #hackernews:        username
 
-# Gems
-gems:
+# Gems -- updated for new version
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
