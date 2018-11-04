@@ -1,7 +1,7 @@
 ---
-layout:post
-title:  "Github免密码提交"
-date:  2018-10-10
+laypost: post
+title: "Github免密码提交"
+date: 2018-10-10
 excerpt: "简单介绍通过修改项目Url方式，以SSH协议提交项目源代码"
 tags: [github, git]
 comments: true
