@@ -3,10 +3,7 @@ layout: post
 title: "Lua Coroutine Basic"
 date: 2018-11-04
 excerpt: "To show up the basic Lua coroutine language."
-tag:
-- Lua
-- syntax
-- test
+tags: [Lua, coroutine]
 comments: true
 ---
 
