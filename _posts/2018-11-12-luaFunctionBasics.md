@@ -45,10 +45,11 @@ new_array[i] = func(v)
 end
 return new_array
 end
+```
 
 This is a simple `map` implementation that only works with one array. But it workds well:
  
- ```Lua
+```Lua
 return table.concat(map(double, {1, 2, 3}), ",")
 ```
 
