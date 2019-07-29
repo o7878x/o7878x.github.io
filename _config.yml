@@ -62,6 +62,8 @@ steam:              o7878x
 #xmpp:              username@server.com
 #hackernews:        username
 
+live2d:             true
+
 # Gems -- updated for new version
 plugins:
   - jekyll-mentions
