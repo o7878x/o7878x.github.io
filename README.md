@@ -1,7 +1,11 @@
 # Blader's Personal Blog
 
 ### Zen
+
+---
+
 `Stay hungry, stay foolish.`
+
 
 ### Introduction
 
@@ -12,6 +16,7 @@
 Here is a link to the blog:
 
 <https://o7878x.github.io>
+
 
 
 ### Features
@@ -31,9 +36,11 @@ Here is a link to the blog:
 - MathJax support
 
 
+
 ### Content
 
 ---
 
 You can touch many ideas by reading my posts and projects in this blog, including some advanced front-end tech, such as canvas and webgl.
+
 
