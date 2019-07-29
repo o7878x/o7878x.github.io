@@ -41,13 +41,10 @@
     {% if site.live2d %}
     <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
     <script>
-        var modelName = "shizuku";
-        var jsonPath = "https://unpkg.com/live2d-widget-model-" + modelName + 
-                       "@1.0.5/assets/" + modelName + ".model.json";
+        var modelPath = "https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json";
         L2Dwidget.init({
             "model": {
-                //jsonPath: "https://unpkg.com/live2d-widget-model-chitose@1.0.5/assets/chitose.model.json",
-                "jsonPath": jsonPath,
+                "jsonPath": modelPath,
                 "scale": 1
             },
             "display": {
