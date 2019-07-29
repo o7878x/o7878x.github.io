@@ -43,7 +43,11 @@
     <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
     <script>
         var modelPath = "https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json";
-        L2Dwidget.init({
+        L2Dwidget
+        .on("*", funcion(name) {
+            console.log('%c EVENT ' + '%c -> ' + name, 'background: #222; color: yellow', 'background: #fff; color: #000')
+        })
+        .init({
             "model": {
                 "jsonPath": modelPath,
                 "scale": 1
