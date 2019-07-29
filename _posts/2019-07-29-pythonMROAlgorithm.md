@@ -57,11 +57,13 @@ to indicate the list of classes [C1, C2, ... CN].
 
 The **head** of the list is its first element:
 > head = C1
+
 whereas the **tail** is the rest of the list:
 > tail = C2 ... CN
 
 I shall also use the notation
 > C + (C1 C2 ... CN) = C C1 C2 ... CN
+
 to denote the sum of the lists [C] + [C1, C2, ... CN].
 
 # C3 Linearization Algorithm
