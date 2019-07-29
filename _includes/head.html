@@ -44,9 +44,6 @@
     <script>
         var modelPath = "https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json";
         L2Dwidget
-        .on("*", funcion(name) {
-            console.log('%c EVENT ' + '%c -> ' + name, 'background: #222; color: yellow', 'background: #fff; color: #000')
-        })
         .init({
             "model": {
                 "jsonPath": modelPath,
