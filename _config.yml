@@ -37,11 +37,11 @@ disqus_shortname:   blader
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              446344913@qq.com
+#email:              username
 #twitter:            username
 #facebook:           username
 github-url:         o7878x
-stackoverflow:      6770049/archer   # from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:      username   # from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -50,7 +50,7 @@ stackoverflow:      6770049/archer   # from a "http://stackoverflow.com/users/12
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              o7878x
+#steam:              o7878x
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
