@@ -1,10 +1,10 @@
 # Site
 title:              Blader
-bio:                'Stay hungry, stay foolish.'
+bio:                'Long may the sun shine.'
 description:        "Do one thing at a time, and do well."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -61,8 +61,6 @@ github-url:         o7878x
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-
-live2d:             true
 
 # Gems -- updated for new version
 plugins:
