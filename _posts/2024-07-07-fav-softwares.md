@@ -33,6 +33,7 @@ Update on time.
 
 | Name | Link | Remark |
 | --- | --- | --- |
+| Cryptomator | | encrypt files |
 | Everything | | search files very fast |
 | 7-zip | | Free compresser |
 | CCleaner | | PC Cleaner |
