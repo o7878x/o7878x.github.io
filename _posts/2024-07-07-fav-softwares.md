@@ -19,7 +19,7 @@ Update on time.
 | --- | --- | --- |
 | Postman | | Request remote server |
 | Fiddler | | Capture HTTP/HTTPS network traffic |
-| WireSharks | | Capture network traffic from every network protocol |
+| WireShark | | Capture network traffic from every network protocol |
 | Android Studio | | Develop Android software |
 | Visual Studio Code | | Coding everywhere |
 | Intellij Idea | | Modern Java IDE |
