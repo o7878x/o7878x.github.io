@@ -53,20 +53,27 @@ Keep in the loop.
 
 | Name | Remark |
 | --- | --- |
+| [7-Zip](https://www.7-zip.org/) | Free compresser |
+| WinRAR | Traditional compresser |
+
+### Web Browser Tools
+
+| Name | Remark |
+| --- | --- |
+| [Chrome](https://www.google.com/intl/en_hk/chrome/) | Modern Web Browser |
+| [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Other Web Browser |
 
 ### Other Tools
 
 | Name | Remark |
 | --- | --- |
-| [Chrome](https://www.google.com/intl/en_hk/chrome/) | Modern Web Browser |
 | BlueStacks | Modern Android Simulator |
 | Cheat Engine | PC software cheater |
 | [Cryptomator](https://cryptomator.org/) | encrypt files |
 | Everything | search files very fast |
-| 7-zip | Free compresser |
-| WinRAR | Traditional compresser |
 | [CCleaner](https://www.ccleaner.com/) | PC Cleaner |
 | PotPlayer | PC audio & media player |
 | Blender | 3D Modeling |
 | [Steam](https://store.steampowered.com/) | Game Station |
 | CPU-Z | CPU Monitor |
+| VMware Player | Virtual Machine Player |
