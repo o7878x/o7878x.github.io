@@ -11,33 +11,62 @@ tag:
 
 # Fav Softwares List
 
+Keep in the loop.
+
 ## Coding Tools
 
-Update on time.
+### Network Tools
 
-| Name | Link | Remark |
-| --- | --- | --- |
-| Postman | | Request remote server |
-| Fiddler | | Capture HTTP/HTTPS network traffic |
-| WireShark | | Capture network traffic from every network protocol |
-| Android Studio | | Develop Android software |
-| Visual Studio Code | | Coding everywhere |
-| Intellij Idea | | Modern Java IDE |
-| Pycharm | | Modern Python IDE |
-| BlueStacks | | Modern Android Simulator |
-| Cheat Engine | | PC software cheater |
-| Git | | software version control |
-| Mingw64 | | GCC on Windows |
+| Name | Remark |
+| --- | --- |
+| [Postman](https://www.postman.com/) | Request remote server |
+| [Fiddler](https://www.telerik.com/fiddler)  | Capture HTTP/HTTPS network traffic |
+| [Wireshark](https://www.wireshark.org/) | Capture network traffic from every network protocol |
 
-## Personal Tools
+### IDE Tools
 
-| Name | Link | Remark |
-| --- | --- | --- |
-| Cryptomator | | encrypt files |
-| Everything | | search files very fast |
-| 7-zip | | Free compresser |
-| CCleaner | | PC Cleaner |
-| PotPlayer | | PC audio & media player |
-| Blender | | 3D Modeling |
-| 网易UU | | |
-| 百度网盘 | | |
+| Name | Remark |
+| --- | --- |
+| [Android Studio](https://developer.android.com/studio?hl=zh-cn) | Develop Android software |
+| [Visual Studio Code](https://code.visualstudio.com/) | Coding everywhere |
+| [Intellij Idea](https://www.jetbrains.com/zh-cn/idea/) | Modern Java IDE |
+| [Pycharm](https://www.jetbrains.com/pycharm/) | Modern Python IDE |
+| [CLion](https://www.jetbrains.com/clion/) | Modern C++ IDE(not free) |
+
+### Compiler tools
+
+| Name | Remark |
+| --- | --- |
+| [Mingw64](https://www.mingw-w64.org/) | GCC on Windows |
+| [CPython](https://www.python.org/) | CPython Compiler |
+| [Node.js](https://nodejs.org/zh-cn) | Javascript Compiler |
+
+### Version Control Tools
+
+| Name | Remark |
+| --- | --- |
+| [Git](https://gitforwindows.org/) | software version control |
+| [TortoiseGit](https://tortoisegit.org/) | git GUI |
+| [TortioseSVN](https://tortoisesvn.net/downloads.zh.html) | SVN GUI |
+
+### Compress Tools
+
+| Name | Remark |
+| --- | --- |
+
+### Other Tools
+
+| Name | Remark |
+| --- | --- |
+| [Chrome](https://www.google.com/intl/en_hk/chrome/) | Modern Web Browser |
+| BlueStacks | Modern Android Simulator |
+| Cheat Engine | PC software cheater |
+| [Cryptomator](https://cryptomator.org/) | encrypt files |
+| Everything | search files very fast |
+| 7-zip | Free compresser |
+| WinRAR | Traditional compresser |
+| [CCleaner](https://www.ccleaner.com/) | PC Cleaner |
+| PotPlayer | PC audio & media player |
+| Blender | 3D Modeling |
+| [Steam](https://store.steampowered.com/) | Game Station |
+| CPU-Z | CPU Monitor |
