@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Userful Softwares"
+title: "Pratical Softwares"
 date: 2024-07-07
-excerpt: "It is a guide of userful softwares"
+excerpt: "A list of prtical softwares"
 comments: true
 tag:
 - coding
@@ -77,3 +77,4 @@ Keep in the loop.
 | [Steam](https://store.steampowered.com/) | Game Station |
 | CPU-Z | CPU Monitor |
 | VMware Player | Virtual Machine Player |
+| uTorrent | Torrent & Magnet Link Downloader |
