@@ -78,3 +78,4 @@ Keep in the loop.
 | CPU-Z | CPU Monitor |
 | VMware Player | Virtual Machine Player |
 | uTorrent | Torrent & Magnet Link Downloader |
+| [Eclipse Memory Analyzer](https://projects.eclipse.org/projects/tools.mat) | Analyse Java memory leak |
