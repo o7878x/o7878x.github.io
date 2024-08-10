@@ -79,3 +79,4 @@ Keep in the loop.
 | VMware Player | Virtual Machine Player |
 | uTorrent | Torrent & Magnet Link Downloader |
 | [Eclipse Memory Analyzer](https://projects.eclipse.org/projects/tools.mat) | Analyse Java memory leak |
+| [SwitchHosts](https://github.com/oldj/SwitchHosts) | Switch hosts file quickly |
