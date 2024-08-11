@@ -69,14 +69,25 @@ Keep in the loop.
 | --- | --- |
 | BlueStacks | Modern Android Simulator |
 | Cheat Engine | PC software cheater |
-| [Cryptomator](https://cryptomator.org/) | encrypt files |
-| Everything | search files very fast |
 | [CCleaner](https://www.ccleaner.com/) | PC Cleaner |
-| PotPlayer | PC audio & media player |
 | Blender | 3D Modeling |
 | [Steam](https://store.steampowered.com/) | Game Station |
-| CPU-Z | CPU Monitor |
 | VMware Player | Virtual Machine Player |
-| uTorrent | Torrent & Magnet Link Downloader |
 | [Eclipse Memory Analyzer](https://projects.eclipse.org/projects/tools.mat) | Analyse Java memory leak |
+
+## System Tools
+
+| Name | Remark |
+| --- | --- |
+| CPU-Z | CPU Monitor |
+| PotPlayer | PC audio & media player |
+| Everything | search files very fast |
+| uTorrent | Torrent & Magnet Link Downloader |
+
+## Security And Privacy Tools
+
+| Name | Remark |
+| --- | --- |
 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | Switch hosts file quickly |
+| [SandboxiePlus](https://github.com/sandboxie-plus/Sandboxie) | Run Windows Program in sandbox |
+| [Cryptomator](https://cryptomator.org/) | encrypt files |
