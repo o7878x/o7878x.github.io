@@ -49,6 +49,12 @@ Keep in the loop.
 | [TortoiseGit](https://tortoisegit.org/) | git GUI |
 | [TortioseSVN](https://tortoisesvn.net/downloads.zh.html) | SVN GUI |
 
+### Editor
+
+| Name | Remark |
+| --- | --- |
+| [MarkText](https://www.marktext.cc/) | Free Markdown Editor |
+
 ### Compress Tools
 
 | Name | Remark |
