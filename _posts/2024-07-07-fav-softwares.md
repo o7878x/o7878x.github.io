@@ -69,6 +69,16 @@ Keep in the loop.
 | [Chrome](https://www.google.com/intl/en_hk/chrome/) | Modern Web Browser |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Other Web Browser |
 
+### Chrome Browser Plugins
+
+| Name | Remark |
+| --- | --- |
+| Adblock Plus | Block website ads |
+| Stream Recorder | Download website videos |
+| Vimium | Surf on the Internet by vim way |
+| TamperMonkey | Inject custom script into website |
+| Momentum | Beautify blank new tab page |
+
 ### Other Tools
 
 | Name | Remark |
