@@ -107,3 +107,4 @@ Keep in the loop.
 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | Switch hosts file quickly |
 | [SandboxiePlus](https://github.com/sandboxie-plus/Sandboxie) | Run Windows Program in sandbox |
 | [Cryptomator](https://cryptomator.org/) | encrypt files |
+| [KeePass](https://keepass.info/) | Store account and password |
