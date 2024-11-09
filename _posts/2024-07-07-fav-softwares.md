@@ -79,6 +79,15 @@ Keep in the loop.
 | TamperMonkey | Inject custom script into website |
 | Momentum | Beautify blank new tab page |
 
+### Games
+
+| Name | Remark |
+| --- | --- |
+| [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/asia/en/) | |
+| [Blue Archive](https://bluearchive.nexon.com/home) | |
+| [Heaven Burns Red](https://tw.heaven-burns-red.com/) | |
+| [Pokémon TCG Pocket](https://www.pokemontcgpocket.com/tc/) | |
+
 ### Other Tools
 
 | Name | Remark |
