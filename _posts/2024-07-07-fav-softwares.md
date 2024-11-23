@@ -68,7 +68,7 @@ Keep in the loop.
 | --- | --- |
 | [Chrome](https://www.google.com/intl/en_hk/chrome/) | Modern Web Browser |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Other Web Browser |
-| Edge | Micrsoft browser based on Chromium |
+| Edge | Microsoft browser based on Chromium |
 | [Brave](https://brave.com/) | Mobile secure web browser |
 
 ### Chrome Browser Plugins
