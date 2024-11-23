@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pratical Softwares"
+title: "Favourite Softwares"
 date: 2024-07-07
 excerpt: "A list of prtical softwares"
 comments: true
@@ -68,6 +68,8 @@ Keep in the loop.
 | --- | --- |
 | [Chrome](https://www.google.com/intl/en_hk/chrome/) | Modern Web Browser |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Other Web Browser |
+| Edge | Micrsoft browser based on Chromium |
+| [Brave](https://brave.com/) | Mobile secure web browser |
 
 ### Chrome Browser Plugins
 
@@ -116,4 +118,5 @@ Keep in the loop.
 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | Switch hosts file quickly |
 | [SandboxiePlus](https://github.com/sandboxie-plus/Sandboxie) | Run Windows Program in sandbox |
 | [Cryptomator](https://cryptomator.org/) | encrypt files |
+| [Bitwarden](https://bitwarden.com/) | Store account and password on mobile devices |
 | [KeePass](https://keepass.info/) | Store account and password |
