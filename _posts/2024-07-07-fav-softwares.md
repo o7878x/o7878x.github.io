@@ -9,8 +9,6 @@ tag:
 - software
 ---
 
-# Fav Softwares List
-
 Keep in the loop.
 
 ## Coding Tools
@@ -120,3 +118,4 @@ Keep in the loop.
 | [Cryptomator](https://cryptomator.org/) | encrypt files |
 | [Bitwarden](https://bitwarden.com/) | Store account and password on mobile devices |
 | [KeePass](https://keepass.info/) | Store account and password |
+| [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator) | Microsoft account protector on mobile device |
