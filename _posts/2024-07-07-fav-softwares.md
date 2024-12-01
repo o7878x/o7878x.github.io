@@ -9,11 +9,7 @@ tag:
 - software
 ---
 
-Keep in the loop.
-
-## Coding Tools
-
-### Network Tools
+## Network Tools
 
 | Name | Remark |
 | --- | --- |
@@ -21,7 +17,7 @@ Keep in the loop.
 | [Fiddler](https://www.telerik.com/fiddler)  | Capture HTTP/HTTPS network traffic |
 | [Wireshark](https://www.wireshark.org/) | Capture network traffic from every network protocol |
 
-### IDE Tools
+## IDE Tools
 
 | Name | Remark |
 | --- | --- |
@@ -31,7 +27,7 @@ Keep in the loop.
 | [Pycharm](https://www.jetbrains.com/pycharm/) | Modern Python IDE |
 | [CLion](https://www.jetbrains.com/clion/) | Modern C++ IDE(not free) |
 
-### Compiler tools
+## Compiler tools
 
 | Name | Remark |
 | --- | --- |
@@ -39,7 +35,7 @@ Keep in the loop.
 | [CPython](https://www.python.org/) | CPython Compiler |
 | [Node.js](https://nodejs.org/zh-cn) | Javascript Compiler |
 
-### Version Control Tools
+## Version Control Tools
 
 | Name | Remark |
 | --- | --- |
@@ -47,20 +43,20 @@ Keep in the loop.
 | [TortoiseGit](https://tortoisegit.org/) | git GUI |
 | [TortioseSVN](https://tortoisesvn.net/downloads.zh.html) | SVN GUI |
 
-### Editor
+## Editor
 
 | Name | Remark |
 | --- | --- |
 | [MarkText](https://www.marktext.cc/) | Free Markdown Editor |
 
-### Compress Tools
+## Compress Tools
 
 | Name | Remark |
 | --- | --- |
 | [7-Zip](https://www.7-zip.org/) | Free compresser |
 | WinRAR | Traditional compresser |
 
-### Web Browser Tools
+## Web Browser Tools
 
 | Name | Remark |
 | --- | --- |
@@ -69,7 +65,7 @@ Keep in the loop.
 | Edge | Microsoft browser based on Chromium |
 | [Brave](https://brave.com/) | Mobile secure web browser |
 
-### Chrome Browser Plugins
+## Chrome Browser Plugins
 
 | Name | Remark |
 | --- | --- |
@@ -79,7 +75,7 @@ Keep in the loop.
 | TamperMonkey | Inject custom script into website |
 | Momentum | Beautify blank new tab page |
 
-### Games
+## Games
 
 | Name | Remark |
 | --- | --- |
@@ -88,7 +84,7 @@ Keep in the loop.
 | [Heaven Burns Red](https://tw.heaven-burns-red.com/) | |
 | [Pokémon TCG Pocket](https://www.pokemontcgpocket.com/tc/) | |
 
-### Other Tools
+## Other Tools
 
 | Name | Remark |
 | --- | --- |
