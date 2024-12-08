@@ -84,18 +84,6 @@ tag:
 | [Heaven Burns Red](https://tw.heaven-burns-red.com/) | |
 | [Pokémon TCG Pocket](https://www.pokemontcgpocket.com/tc/) | |
 
-## Other Tools
-
-| Name | Remark |
-| --- | --- |
-| BlueStacks | Modern Android Simulator |
-| Cheat Engine | PC software cheater |
-| [CCleaner](https://www.ccleaner.com/) | PC Cleaner |
-| Blender | 3D Modeling |
-| [Steam](https://store.steampowered.com/) | Game Station |
-| VMware Player | Virtual Machine Player |
-| [Eclipse Memory Analyzer](https://projects.eclipse.org/projects/tools.mat) | Analyse Java memory leak |
-
 ## System Tools
 
 | Name | Remark |
@@ -115,3 +103,16 @@ tag:
 | [Bitwarden](https://bitwarden.com/) | Store account and password on mobile devices |
 | [KeePass](https://keepass.info/) | Store account and password |
 | [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator) | Microsoft account protector on mobile device |
+
+## Other Tools
+
+| Name | Remark |
+| --- | --- |
+| BlueStacks | Modern Android Simulator |
+| Cheat Engine | PC software cheater |
+| [CCleaner](https://www.ccleaner.com/) | PC Cleaner |
+| Blender | 3D Modeling |
+| [Steam](https://store.steampowered.com/) | Game Station |
+| VMware Player | Virtual Machine Player |
+| [Eclipse Memory Analyzer](https://projects.eclipse.org/projects/tools.mat) | Analyse Java memory leak |
+| [OBS Studio](https://obsproject.com/) | Desktop screen recorder |
