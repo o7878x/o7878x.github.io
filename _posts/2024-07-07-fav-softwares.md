@@ -31,7 +31,7 @@ tag:
 
 | Name | Remark |
 | --- | --- |
-| [Mingw64](https://www.mingw-w64.org/) | GCC on Windows |
+| [MinGW-w64](https://www.mingw-w64.org/) | GCC on Windows |
 | [CPython](https://www.python.org/) | CPython Compiler |
 | [Node.js](https://nodejs.org/zh-cn) | Javascript Compiler |
 
