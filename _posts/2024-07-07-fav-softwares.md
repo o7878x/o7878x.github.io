@@ -74,6 +74,7 @@ tag:
 | Vimium | Surf on the Internet by vim way |
 | TamperMonkey | Inject custom script into website |
 | Momentum | Beautify blank new tab page |
+| OneTab | Store all tabs once |
 
 ## Games
 
