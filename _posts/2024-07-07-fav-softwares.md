@@ -105,6 +105,12 @@ tag:
 | [KeePass](https://keepass.info/) | Store account and password |
 | [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator) | Microsoft account protector on mobile device |
 
+## Android Development
+
+| Name | Remark |
+| --- | --- |
+| [Scrcpy](https://github.com/Genymobile/scrcpy) | Android realtime screen share |
+
 ## Other Tools
 
 | Name | Remark |
