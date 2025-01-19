@@ -16,3 +16,4 @@ tag:
 | [requests](https://requests.readthedocs.io/en/latest/#) | simple HTTP library |
 | [pandas](https://pandas.pydata.org/) | data analysis |
 | [ttp](https://github.com/dmulyalin/ttp) | semi-structured text parsing using templates |
+| [TextFSM](https://github.com/google/textfsm/tree/master) | a template based state machine for parsing semi-formatted text |
