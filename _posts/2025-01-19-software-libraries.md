@@ -15,3 +15,4 @@ tag:
 | --- | --- |
 | [requests](https://requests.readthedocs.io/en/latest/#) | simple HTTP library |
 | [pandas](https://pandas.pydata.org/) | data analysis |
+| [ttp](https://github.com/dmulyalin/ttp) | semi-structured text parsing using templates |
