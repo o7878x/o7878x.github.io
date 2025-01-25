@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Software Libaraies"
+title: "Software Libraries"
 date: 2025-01-19
 excerpt: "A menu of software libraries"
 comments: true
