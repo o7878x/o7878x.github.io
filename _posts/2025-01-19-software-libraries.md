@@ -20,6 +20,9 @@ tag:
 | [Scrapy](https://scrapy.org/) | An open source and collaborative framework for extracting the data you need from websites |
 | [Numpy](https://numpy.org/) | The fundamental package for scientific computing with Python |
 | [Matplotlib](https://matplotlib.org/) | A comprehensive library for creating static, animated, and interactive visualizations in Python |
+| [Scikit-learn](https://scikit-learn.org/s) | An open source machine learning library that supports supervised and unsupervised learning |
+| [Bottle](https://bottlepy.org/) | A fast, simple and lightweight WSGI micro web-framework for Python |
+| [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) | A Python library designed for quick turnaround projects like screen-scraping |
 
 ## Javascript
 
