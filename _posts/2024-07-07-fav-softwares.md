@@ -34,6 +34,8 @@ tag:
 | [MinGW-w64](https://www.mingw-w64.org/) | GCC on Windows |
 | [CPython](https://www.python.org/) | CPython Compiler |
 | [Node.js](https://nodejs.org/zh-cn) | Javascript Compiler |
+| [Dart](https://dart.dev/) | Dart Compiler |
+| [Lua](https://www.lua.org/) | Lua Compiler |
 
 ## Version Control Tools
 
