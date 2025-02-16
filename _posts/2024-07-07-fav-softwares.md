@@ -113,6 +113,12 @@ tag:
 | --- | --- |
 | [Scrcpy](https://github.com/Genymobile/scrcpy) | Android realtime screen share |
 
+## Operating System
+
+| Name | Remark |
+| --- | --- |
+| [Debian](https://www.debian.org/) | Linux kernel opearting system |
+
 ## Other Tools
 
 | Name | Remark |
