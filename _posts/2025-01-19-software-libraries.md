@@ -32,3 +32,4 @@ tag:
 | [three.js](https://threejs.org/) | Javascript 3D library |
 | [vue.js](https://cn.vuejs.org/) | A progressive, incrementally-adoptable JavaScript framework for building UI on the web |
 | [Bootstrap](https://getbootstrap.com/) | Powerful, extensible, and feature-packed frontend toolkit |
+| [Javascript Hooker](https://github.com/cowboy/javascript-hooker) | Monkey-patch (hook) functions for debugging and stuff |
