@@ -100,6 +100,7 @@ tag:
 
 | Name | Remark |
 | --- | --- |
+| [Optimizer](https://github.com/hellzerg/optimizer) | An advanced configuration utility designed to enhance your privacy and security on Windows |
 | [SwitchHosts](https://github.com/oldj/SwitchHosts) | Switch hosts file quickly |
 | [SandboxiePlus](https://github.com/sandboxie-plus/Sandboxie) | Run Windows Program in sandbox |
 | [Cryptomator](https://cryptomator.org/) | encrypt files |
@@ -118,6 +119,7 @@ tag:
 | Name | Remark |
 | --- | --- |
 | [Debian](https://www.debian.org/) | Linux kernel opearting system |
+| [Ubuntu](https://ubuntu.com/) | Linux kernel operating system |
 
 ## Chat
 
