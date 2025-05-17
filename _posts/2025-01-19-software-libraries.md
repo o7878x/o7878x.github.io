@@ -9,6 +9,12 @@ tag:
 - software
 ---
 
+## AI
+
+| Name | Remark |
+| --- | --- |
+| [DeepWiki](https://deepwiki.org/) | AI deep WIKI |
+
 ## Python
 
 | Name | Remark |
