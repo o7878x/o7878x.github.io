@@ -77,6 +77,7 @@ tag:
 | TamperMonkey | Inject custom script into website |
 | Momentum | Beautify blank new tab page |
 | OneTab | Store all tabs once |
+| Automa | From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want… |
 
 ## Games
 
