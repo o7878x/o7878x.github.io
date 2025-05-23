@@ -14,6 +14,7 @@ tag:
 | Name | Remark |
 | --- | --- |
 | [DeepWiki](https://deepwiki.org/) | AI deep WIKI |
+| [Ollama](https://ollama.com/) | Get up and running with large language models |
 
 ## Python
 
