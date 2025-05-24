@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Software Libraries"
+title: "Coding Tools"
 date: 2025-01-19
-excerpt: "A menu of software libraries"
+excerpt: "A menu of coding tools"
 comments: true
 tag:
 - coding
@@ -15,6 +15,8 @@ tag:
 | --- | --- |
 | [DeepWiki](https://deepwiki.org/) | AI deep WIKI |
 | [Ollama](https://ollama.com/) | Get up and running with large language models |
+| [Cline](https://cline.bot/) | The Collaborative AI Coder |
+| [Cherry Studio](https://www.cherry-ai.com/) | A desktop client that supports for multiple LLM providers |
 
 ## Python
 
@@ -29,7 +31,7 @@ tag:
 | [Matplotlib](https://matplotlib.org/) | A comprehensive library for creating static, animated, and interactive visualizations in Python |
 | [Scikit-learn](https://scikit-learn.org/s) | An open source machine learning library that supports supervised and unsupervised learning |
 | [Bottle](https://bottlepy.org/) | A fast, simple and lightweight WSGI micro web-framework for Python |
-| [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) | A Python library designed for quick turnaround projects like screen-scraping |
+| [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) | A Python library designed for quick turnaround projects |
 
 ## Javascript
 
