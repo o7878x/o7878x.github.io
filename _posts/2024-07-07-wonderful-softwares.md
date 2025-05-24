@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Favourite Softwares"
+title: "Wonderful Softwares"
 date: 2024-07-07
-excerpt: "A list of prtical softwares"
+excerpt: "A list of wonderful softwares"
 comments: true
 tag:
 - coding
