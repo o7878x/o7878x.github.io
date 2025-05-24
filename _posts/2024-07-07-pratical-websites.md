@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Favourite WebSites"
+title: "Pratical WebSites"
 date: 2024-07-07
 excerpt: "A list of pratical websites"
 comments: true
@@ -27,7 +27,7 @@ tag:
 | Stack Overflow | <https://stackoverflow.com/> | Search FAQ coding questions |
 | V8 Offical | <https://v8.dev/> | Javascript V8 Engine offical |
 | LeetCode China | <https://leetcode.cn/> | The best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews |
-| LeetCode Problem Rating Project | <https://github.com/zerotrac/leetcode_problem_rating> | List LeetCode problem rating |
+| LeetCode Problem Rating | <https://github.com/zerotrac/leetcode_problem_rating> | List LeetCode problem rating |
 
 ## Search Engines
 
