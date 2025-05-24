@@ -70,3 +70,4 @@ tag:
 | Pixiv | <https://www.pixiv.net/> | Famous pic website |
 | Yuc WIKI | <https://yuc.wiki/> | Anime broadcast info |
 | Nintendo HK Store | <https://store.nintendo.com.hk/> | HK digital NS game store |
+| X account guide | <https://twitter-rules.hsott.cn/> | Keep you account safe |
