@@ -59,6 +59,13 @@ tag:
 | Bilibili | <https://www.bilibili.com/> | Search games info |
 | Steam DB | <https://steamdb.info/> | Steam game database |
 
+## Proxy Detect
+
+| Name | Link | Remark |
+| --- | --- | --- |
+| Simple Proxy Detect | <https://proxy.888005.xyz/> | Simple proxy detect |
+| Live Proxy and VPN Detection | <https://proxy.incolumitas.com/proxy_detect.html> | Proxy detect |
+
 ## Others
 
 | Name | Link | Remark |
