@@ -66,6 +66,12 @@ tag:
 | Simple Proxy Detect | <https://proxy.888005.xyz/> | Simple proxy detect |
 | Live Proxy and VPN Detection | <https://proxy.incolumitas.com/proxy_detect.html> | Proxy detect |
 
+## Music
+
+| Name | Link | Remark |
+| --- | --- | --- |
+| 一起听歌吧 | <https://happy.alang.run/> | Listen music |
+
 ## Others
 
 | Name | Link | Remark |
