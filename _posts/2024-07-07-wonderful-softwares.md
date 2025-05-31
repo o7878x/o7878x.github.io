@@ -50,6 +50,7 @@ tag:
 | Name | Remark |
 | --- | --- |
 | [MarkText](https://www.marktext.cc/) | Free Markdown Editor |
+| [OneNote](https://www.onenote.com/) | Useful notebook on Windows |
 
 ## Compress Tools
 
