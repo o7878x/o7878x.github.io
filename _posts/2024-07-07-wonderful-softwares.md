@@ -75,10 +75,12 @@ tag:
 | [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | Inject custom script into website |
 | [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) | Surf on the Internet by vim way |
 | [Momentum](https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) | Beautify blank new tab page |
+| [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Full page screen capture |
 | Adblock Plus | Block website ads |
-| Stream Recorder | Download website videos |
+| [Stream Recorder](https://chromewebstore.google.com/detail/stream-recorder-hls-m3u8/iogidnfllpdhagebkblkgbfijkbkjdmm) | Download website videos |
 | OneTab | Store all tabs once |
 | Automa | From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want… |
+| [Banana Theme](https://chromewebstore.google.com/detail/banana/cdkecinaonohgbmhojlaeeoalomfhlal) | |
 
 ## Games
 
