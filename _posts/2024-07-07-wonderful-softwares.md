@@ -71,11 +71,12 @@ tag:
 
 | Name | Remark |
 | --- | --- |
+| [AdGuard](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) | Block website ads |
+| [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | Inject custom script into website |
+| [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) | Surf on the Internet by vim way |
+| [Momentum](https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) | Beautify blank new tab page |
 | Adblock Plus | Block website ads |
 | Stream Recorder | Download website videos |
-| Vimium | Surf on the Internet by vim way |
-| TamperMonkey | Inject custom script into website |
-| Momentum | Beautify blank new tab page |
 | OneTab | Store all tabs once |
 | Automa | From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want… |
 
