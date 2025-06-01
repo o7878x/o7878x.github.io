@@ -18,6 +18,14 @@ tag:
 | [Cline](https://cline.bot/) | The Collaborative AI Coder |
 | [Cherry Studio](https://www.cherry-ai.com/) | A desktop client that supports for multiple LLM providers |
 
+## C++
+
+| Name | Remark |
+| --- | --- |
+| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
+| [Catch2](https://github.com/catchorg/Catch2) | C++ test framework |
+| [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library |
+
 ## Python
 
 | Name | Remark |
