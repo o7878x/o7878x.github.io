@@ -147,3 +147,4 @@ tag:
 | [OBS Studio](https://obsproject.com/) | Desktop screen recorder |
 | [Carnac](https://github.com/Code52/carnac) | Windows Keyboard Display |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Windows free open source PDF reader |
+| [LocalSend](https://localsend.org/) | Allows you to securely share files and messages with nearby devices |
