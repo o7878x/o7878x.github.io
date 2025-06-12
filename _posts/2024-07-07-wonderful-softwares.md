@@ -100,6 +100,8 @@ tag:
 | PotPlayer | PC audio & media player |
 | Everything | search files very fast |
 | uTorrent | Torrent & Magnet Link Downloader |
+| Microsoft PowerToys | A set of utilities for power users to tune and streamline their Windows experience |
+| Microsoft Terminal | A new, modern, feature-rich, productive terminal application for command-line users |
 
 ## Security And Privacy Tools
 
