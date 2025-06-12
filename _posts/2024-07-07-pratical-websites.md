@@ -72,6 +72,13 @@ tag:
 | --- | --- | --- |
 | 一起听歌吧 | <https://happy.alang.run/> | Listen music |
 
+## Books
+
+| Name | Link | Remark |
+| --- | --- | --- |
+| Z-Library| <https://z-lib.id/> | The world's largest ebook library z |
+| Library Genesis+ | <https://libgen.gs/index.php> | Other ebook library |
+
 ## Others
 
 | Name | Link | Remark |
