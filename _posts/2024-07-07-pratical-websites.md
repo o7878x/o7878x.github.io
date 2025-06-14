@@ -91,3 +91,4 @@ tag:
 | Yuc WIKI | <https://yuc.wiki/> | Anime broadcast info |
 | Nintendo HK Store | <https://store.nintendo.com.hk/> | HK digital NS game store |
 | X account guide | <https://twitter-rules.hsott.cn/> | Keep you account safe |
+| SMS Activate | <https://sms-activate.io/> | Receive SMS online |
