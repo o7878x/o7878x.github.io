@@ -79,6 +79,12 @@ tag:
 | Z-Library| <https://z-lib.id/> | The world's largest ebook library z |
 | Library Genesis+ | <https://libgen.gs/index.php> | Other ebook library |
 
+## Themes
+
+| Name | Link | Remark |
+| --- | --- | --- |
+| Windows Terminal Themes | <https://windowsterminalthemes.dev/> | Find your favourite Terminal themes |
+
 ## Others
 
 | Name | Link | Remark |
