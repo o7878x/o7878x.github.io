@@ -114,7 +114,6 @@ tag:
 | [Bitwarden](https://bitwarden.com/) | Store account and password on mobile devices |
 | [KeePass](https://keepass.info/) | Store account and password |
 | [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator) | Microsoft account protector on mobile device |
-| [SMS Activate](https://sms-activate.io/) | Receive SMS online |
 
 ## Android Development
 
@@ -150,3 +149,4 @@ tag:
 | [Carnac](https://github.com/Code52/carnac) | Windows Keyboard Display |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Windows free open source PDF reader |
 | [LocalSend](https://localsend.org/) | Allows you to securely share files and messages with nearby devices |
+| [Geek Uninstaller](https://geekuninstaller.com/) | Clean Removal and Force Removal |
