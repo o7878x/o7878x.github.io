@@ -24,6 +24,7 @@ tag:
 | [dart_mappable](https://pub.dev/packages/dart_mappable) | Improved json serialization |
 | [logging](https://pub.dev/packages/logging) | Provides APIs for debugging and error logging |
 | [provider](https://pub.dev/packages/provider) | A wrapper around InheritedWidget to make them easier to use and more reusable |
+| [dio](https://pub.dev/packages/dio) | A powerful HTTP networking package for Dart/Flutter |
 
 ## AI
 
@@ -48,6 +49,8 @@ tag:
 | [Scikit-learn](https://scikit-learn.org/s) | An open source machine learning library that supports supervised and unsupervised learning |
 | [Bottle](https://bottlepy.org/) | A fast, simple and lightweight WSGI micro web-framework for Python |
 | [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) | A Python library designed for quick turnaround projects |
+| [Scapy](https://scapy.net/) | A powerful interactive packet manipulation library written |
+| [Flask](https://flask.palletsprojects.com/en/stable/) | A lightweight WSGI web application framework |
 
 ## Javascript
 
