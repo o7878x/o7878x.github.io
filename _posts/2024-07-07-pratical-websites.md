@@ -29,7 +29,7 @@ tag:
 | V8 Offical | <https://v8.dev/> | Javascript V8 Engine offical |
 | LeetCode China | <https://leetcode.cn/> | The best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews |
 | LeetCode Problem Rating | <https://github.com/zerotrac/leetcode_problem_rating> | List LeetCode problem rating |
-| Shodan | <https://www.shodan.io/> | The world's first search engine for Internet-connected devices |
+| Mingw-w64 | <https://www.mingw-w64.org/> | The GCC compiler on Windows systems |
 
 ## Search Engines
 
@@ -39,6 +39,7 @@ tag:
 | Bing | <https://www.bing.com/> | |
 | Perplexity | <https://www.perplexity.ai/> | AI Search engine |
 | DuckDuckGo | <https://duckduckgo.com/> | Search more contents safely |
+| Shodan | <https://www.shodan.io/> | The world's first search engine for Internet-connected devices |
 
 ## Github Table
 
