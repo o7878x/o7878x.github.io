@@ -30,6 +30,7 @@ tag:
 | LeetCode China | <https://leetcode.cn/> | The best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews |
 | LeetCode Problem Rating | <https://github.com/zerotrac/leetcode_problem_rating> | List LeetCode problem rating |
 | Mingw-w64 | <https://www.mingw-w64.org/> | The GCC compiler on Windows systems |
+| Jetpack Compose | <https://developer.android.com/courses/pathways/compose> | Build native Android UI |
 
 ## Search Engines
 
