@@ -17,6 +17,13 @@ tag:
 | [Catch2](https://github.com/catchorg/Catch2) | C++ test framework |
 | [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library |
 
+## Kotlin
+
+| Name | Remark |
+| --- | --- |
+| [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | Official coroutines |
+| [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) | Official serialization |
+
 ## Flutter
 
 | Name | Remark |
