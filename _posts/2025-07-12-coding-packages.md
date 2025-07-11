@@ -7,7 +7,6 @@ comments: true
 tag:
 - coding
 - software
-- packages
 ---
 
 ## C++
