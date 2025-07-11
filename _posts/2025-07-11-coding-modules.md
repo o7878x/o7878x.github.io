@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Coding Packages"
-date: 2025-07-12
+title: "Coding Modules"
+date: 2025-07-11
 excerpt: "A menu of coding tools"
 comments: true
 tag:
