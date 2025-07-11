@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Coding Tools"
-date: 2025-01-19
+title: "Coding Packages"
+date: 2025-07-12
 excerpt: "A menu of coding tools"
 comments: true
 tag:
 - coding
 - software
+- packages
 ---
 
 ## C++
