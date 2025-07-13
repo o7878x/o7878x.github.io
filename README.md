@@ -1,39 +1,27 @@
 # Blader's Personal Blog
 
-### Zen
+## Link
 
----
+Personal Tech Blog: <https://o7878x.github.io>
 
-`Stay hungry, stay foolish.`
+## Zen
 
-### Introduction
-
----
-
-[It](https://o7878x.github.io) is a **wonderful** personal github page with the help of [Jekyll](https://jekyllrb.com/).Thanks for the contribution of many authors who create those Jekyll template page, especially [Moon Jekylll Theme](https://taylantatli.github.io/Moon/).I create a greate page, and share my knowledges towards the **Internet**.
-
-Here is a link to the blog:
-
-<https://o7878x.github.io>
-
-### Features
-
----
-
-- Minimal, you can focus on your content
-- Responsive
-- Disqus integeration
-- Syntax highlighting
-- Optional post image
-- Social post image
-- Social icons
-- Page for sharing projects
-- Optional background image
-- Simple navigation menu
-- MathJax support
-
-### Content
-
----
-
-You can touch many ideas by reading my posts and projects in this blog, including some advanced front-end tech, such as canvas and webgl.
+- Beautiful is better than ugly.
+- Explicit is better than implicit.
+- Simple is better than complex.
+- Complex is better than complicated.
+- Flat is better than nested.
+- Sparse is better than dense.
+- Readability counts.
+- Special cases aren't special enough to break the rules.
+- Although practicality beats purity.
+- Errors should never pass silently.
+- Unless explicitly silenced.
+- In the face of ambiguity, refuse the temptation to guess.
+- There should be one-- and preferably only one --obvious way to do it.
+- Although that way may not be obvious at first unless you're Dutch.
+- Now is better than never.
+- Although never is often better than *right* now.
+- If the implementation is hard to explain, it's a bad idea.
+- If the implementation is easy to explain, it may be a good idea.
+- Namespaces are one honking great idea -- let's do more of those!
