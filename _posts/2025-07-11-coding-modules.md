@@ -13,6 +13,7 @@ tag:
 
 | Name | Remark |
 | --- | --- |
+| [Awesome C++](https://github.com/fffaraz/awesome-cpp) | Awesome C++ |
 | [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
 | [Catch2](https://github.com/catchorg/Catch2) | C++ test framework |
 | [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library |
@@ -29,6 +30,7 @@ tag:
 
 | Name | Remark |
 | --- | --- |
+| [Awesome Flutter](https://github.com/Solido/awesome-flutter) | Awesome Flutter |
 | [dart_mappable](https://pub.dev/packages/dart_mappable) | Improved json serialization |
 | [logging](https://pub.dev/packages/logging) | Provides APIs for debugging and error logging |
 | [provider](https://pub.dev/packages/provider) | A wrapper around InheritedWidget to make them easier to use and more reusable |
