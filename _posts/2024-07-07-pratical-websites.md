@@ -102,3 +102,5 @@ tag:
 | Nintendo HK Store | <https://store.nintendo.com.hk/> | HK digital NS game store |
 | X account guide | <https://twitter-rules.hsott.cn/> | Keep you account safe |
 | SMS Activate | <https://sms-activate.io/> | Receive SMS online |
+| Keybr | <https://www.keybr.com/> | Practice typing |
+| TypingClub | <https://www.typingclub.com/> | Practice typing |
