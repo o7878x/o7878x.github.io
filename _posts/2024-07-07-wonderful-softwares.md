@@ -151,3 +151,4 @@ tag:
 | [LocalSend](https://localsend.org/) | Allows you to securely share files and messages with nearby devices |
 | [Geek Uninstaller](https://geekuninstaller.com/) | Clean Removal and Force Removal |
 | [Bind](https://www.isc.org/bind/) | A very flexible, full-featured DNS system |
+| [Flow Launcher](https://www.flowlauncher.com/) | Quick File Search & App Launcher for Windows |
