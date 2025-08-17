@@ -91,6 +91,7 @@ tag:
 | [Blue Archive](https://bluearchive.nexon.com/home) | |
 | [Heaven Burns Red](https://tw.heaven-burns-red.com/) | |
 | [Pokémon TCG Pocket](https://www.pokemontcgpocket.com/tc/) | |
+| [Arcaea](https://arcaea.lowiro.com/zh) | |
 
 ## System Tools
 
