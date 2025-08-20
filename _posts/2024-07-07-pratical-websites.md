@@ -43,6 +43,12 @@ tag:
 | DuckDuckGo | <https://duckduckgo.com/> | Search more contents safely |
 | Shodan | <https://www.shodan.io/> | The world's first search engine for Internet-connected devices |
 
+## AI Models
+
+| Name | Link | Remark |
+| --- | --- | --- |
+| ChatGPT | <https://chatgpt.com/> | OpenAI Chat Generative Pre-trained Transformer |
+
 ## Github Table
 
 | Name | Link | Remark |
