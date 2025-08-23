@@ -69,6 +69,7 @@ tag:
 | Bahamut Game Community | <https://www.gamer.com.tw/> | Taiwan Game WIKI |
 | Bilibili | <https://www.bilibili.com/> | Search games info |
 | Steam DB | <https://steamdb.info/> | Steam game database |
+| Capcom ID | <https://cid.capcom.com/sc/> | Capcom ID Account |
 
 ## Proxy Detect
 
