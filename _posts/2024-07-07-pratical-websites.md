@@ -112,3 +112,4 @@ tag:
 | SMS Activate | <https://sms-activate.io/> | Receive SMS online |
 | Keybr | <https://www.keybr.com/> | Practice typing |
 | TypingClub | <https://www.typingclub.com/> | Practice typing |
+| Feedly | <https://feedly.com/> | RSS Client |
