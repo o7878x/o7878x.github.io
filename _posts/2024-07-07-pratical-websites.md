@@ -113,3 +113,4 @@ tag:
 | Keybr | <https://www.keybr.com/> | Practice typing |
 | TypingClub | <https://www.typingclub.com/> | Practice typing |
 | Feedly | <https://feedly.com/> | RSS Client |
+| WikiHow | <https://www.wikihow.com/> | The most trusted how-to site on the internet |
