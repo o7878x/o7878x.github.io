@@ -44,6 +44,7 @@ tag:
 | [Ollama](https://ollama.com/) | Get up and running with large language models |
 | [Cline](https://cline.bot/) | The Collaborative AI Coder |
 | [Cherry Studio](https://www.cherry-ai.com/) | A desktop client that supports for multiple LLM providers |
+| [LMArea](https://lmarena.ai/) | An open platform for evaluating AI through human preference |
 
 ## Python
 
