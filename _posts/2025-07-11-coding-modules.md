@@ -41,6 +41,7 @@ tag:
 | Name | Remark |
 | --- | --- |
 | [DeepWiki](https://deepwiki.org/) | AI deep WIKI |
+| [Google AI Studio](https://aistudio.google.com) | Google AI Studio |
 | [Ollama](https://ollama.com/) | Get up and running with large language models |
 | [Cline](https://cline.bot/) | The Collaborative AI Coder |
 | [Cherry Studio](https://www.cherry-ai.com/) | A desktop client that supports for multiple LLM providers |
