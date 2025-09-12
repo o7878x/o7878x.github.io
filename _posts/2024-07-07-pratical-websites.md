@@ -13,6 +13,7 @@ tag:
 
 | Name | Link | Remark |
 | --- | --- | --- |
+| CyberChef | <https://cyberchef.io/> | |
 | Jetpack Compose | <https://developer.android.google.cn/develop/ui/compose/documentation> | |
 | C++ references | <https://zh.cppreference.com/w/cpp> | |
 | Python develop | <https://www.python.org/> | |
