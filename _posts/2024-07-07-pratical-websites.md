@@ -55,6 +55,7 @@ tag:
 | Name | Link | Remark |
 | --- | --- | --- |
 | Stable Diffusion WebUI | <https://github.com/AUTOMATIC1111/stable-diffusion-webui> | |
+| yd-dlp | <https://github.com/yt-dlp/yt-dlp> | |
 
 ## Game WIKI
 
