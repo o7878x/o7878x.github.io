@@ -136,6 +136,12 @@ tag:
 | --- | --- |
 | [Telegram](https://telegram.org/) | A new era of messaging |
 
+## Server
+
+| Name | Remark |
+| --- | --- |
+| [PocketBase](https://pocketbase.io/) | open source backend in one file |
+
 ## Other Tools
 
 | Name | Remark |
