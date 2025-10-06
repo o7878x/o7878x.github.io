@@ -13,6 +13,7 @@ tag:
 
 | Name | Link | Remark |
 | --- | --- | --- |
+| Github Trending | <https://github.com/trending> | See what the GitHub community is most excited about today |
 | CyberChef | <https://cyberchef.io/> | |
 | Jetpack Compose | <https://developer.android.google.cn/develop/ui/compose/documentation> | |
 | C++ references | <https://zh.cppreference.com/w/cpp> | |
