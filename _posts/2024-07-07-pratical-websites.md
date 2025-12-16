@@ -68,6 +68,7 @@ tag:
 | HSReplay | <https://hsreplay.net/> | Hearthstone game statistics |
 | YuGiOh OCG Official | <https://www.yugioh-card.com/ph/> | Check forbidden cards |
 | Konami Account ID | <https://my.konami.net/> | Check Konami Account |
+| Yu-Gi-Oh! DUELIST POINT Official Website | <https://yugioh-duelist-point.konami.net/general/ymd_games_store> | Konami duelist point site |
 | Nitendo HK Official | <https://www.nintendo.com/hk/> | Nitendo HK Offical |
 | Bahamut Game Community | <https://www.gamer.com.tw/> | Taiwan Game WIKI |
 | Bilibili | <https://www.bilibili.com/> | Search games info |
