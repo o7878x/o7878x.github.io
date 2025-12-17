@@ -119,3 +119,4 @@ tag:
 | Feedly | <https://feedly.com/> | RSS Client |
 | WikiHow | <https://www.wikihow.com/> | The most trusted how-to site on the internet |
 | Toolfk | <https://www.toolfk.com/> | All in one tool |
+| 16Personalities | <https://www.16personalities.com/ch> | MBTI personalities test |
