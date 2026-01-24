@@ -80,7 +80,7 @@ tag:
 | Adblock Plus | Block website ads |
 | [Stream Recorder](https://chromewebstore.google.com/detail/stream-recorder-hls-m3u8/iogidnfllpdhagebkblkgbfijkbkjdmm) | Download website videos |
 | OneTab | Store all tabs once |
-| Automa | From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want… |
+| [Automa](https://chromewebstore.google.com/detail/automa/infppggnoaenmfagbfknfkancpbljcca) | From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want… |
 | [Banana Theme](https://chromewebstore.google.com/detail/banana/cdkecinaonohgbmhojlaeeoalomfhlal) | |
 | [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb?browser=chrome) | |
 
