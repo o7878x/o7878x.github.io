@@ -51,6 +51,7 @@ tag:
 | --- | --- |
 | [MarkText](https://www.marktext.cc/) | Free Markdown Editor |
 | [OneNote](https://www.onenote.com/) | Useful notebook on Windows |
+| [Obsidian](https://obsidian.md/) | Sharpen your thinking |
 
 ## Compress Tools
 
