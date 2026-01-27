@@ -101,7 +101,7 @@ tag:
 | Name | Remark |
 | --- | --- |
 | CPU-Z | CPU Monitor |
-| PotPlayer | PC audio & media player |
+| [PotPlayer](https://potplayer.info/) | PC audio & media player |
 | Everything | search files very fast |
 | [qBittorrent](https://www.qbittorrent.org/) | Torrent & Magnet Link Downloader |
 | Microsoft PowerToys | A set of utilities for power users to tune and streamline their Windows experience |
