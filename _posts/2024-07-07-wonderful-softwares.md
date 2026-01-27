@@ -89,6 +89,7 @@ tag:
 
 | Name | Remark |
 | --- | --- |
+| [Steam](https://store.steampowered.com/) | Game Station |
 | [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/asia/en/) | |
 | [Blue Archive](https://bluearchive.nexon.com/home) | |
 | [Heaven Burns Red](https://tw.heaven-burns-red.com/) | |
@@ -105,6 +106,11 @@ tag:
 | [qBittorrent](https://www.qbittorrent.org/) | Torrent & Magnet Link Downloader |
 | Microsoft PowerToys | A set of utilities for power users to tune and streamline their Windows experience |
 | Microsoft Terminal | A new, modern, feature-rich, productive terminal application for command-line users |
+| [CCleaner](https://www.ccleaner.com/) | PC Cleaner |
+| [chocolatey](https://chocolatey.org/) | Package manager for Windows |
+| [Geek Uninstaller](https://geekuninstaller.com/) | Clean Removal and Force Removal |
+| [Carnac](https://github.com/Code52/carnac) | Windows Keyboard Display |
+| [Flow Launcher](https://www.flowlauncher.com/) | Quick File Search & App Launcher for Windows |
 
 ## Security And Privacy Tools
 
@@ -117,12 +123,15 @@ tag:
 | [Bitwarden](https://bitwarden.com/) | Store account and password on mobile devices |
 | [KeePass](https://keepass.info/) | Store account and password |
 | [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator) | Microsoft account protector on mobile device |
+| [LocalSend](https://localsend.org/) | Allows you to securely share files and messages with nearby devices |
 
 ## Android Development
 
 | Name | Remark |
 | --- | --- |
+| [BlueStacks](https://www.bluestacks.com/) | Modern Android Simulator |
 | [Scrcpy](https://github.com/Genymobile/scrcpy) | Android realtime screen share |
+| [Eclipse Memory Analyzer](https://projects.eclipse.org/projects/tools.mat) | Analyse Java memory leak |
 
 ## Operating System
 
@@ -147,19 +156,10 @@ tag:
 
 | Name | Remark |
 | --- | --- |
-| BlueStacks | Modern Android Simulator |
 | Cheat Engine | PC software cheater |
-| [CCleaner](https://www.ccleaner.com/) | PC Cleaner |
 | Blender | 3D Modeling |
-| [Steam](https://store.steampowered.com/) | Game Station |
 | VMware Player | Virtual Machine Player |
-| [Eclipse Memory Analyzer](https://projects.eclipse.org/projects/tools.mat) | Analyse Java memory leak |
 | [OBS Studio](https://obsproject.com/) | Desktop screen recorder |
-| [Carnac](https://github.com/Code52/carnac) | Windows Keyboard Display |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) | Windows free open source PDF reader |
-| [LocalSend](https://localsend.org/) | Allows you to securely share files and messages with nearby devices |
-| [Geek Uninstaller](https://geekuninstaller.com/) | Clean Removal and Force Removal |
 | [Bind](https://www.isc.org/bind/) | A very flexible, full-featured DNS system |
-| [Flow Launcher](https://www.flowlauncher.com/) | Quick File Search & App Launcher for Windows |
 | [Animeko](https://myani.org/) | Watch anime free |
-| [chocolatey](https://chocolatey.org/) | Package manager for Windows |
