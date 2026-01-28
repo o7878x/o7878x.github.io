@@ -96,6 +96,14 @@ tag:
 | [Pokémon TCG Pocket](https://www.pokemontcgpocket.com/tc/) | |
 | [Arcaea](https://arcaea.lowiro.com/zh) | |
 
+## Game Tools
+
+| Name | Remark |
+| --- | --- |
+| [Game Cheats Manager](https://github.com/dyang886/Game-Cheats-Manager) | A one-stop solution for gamers to manage their trainers |
+| [GARbro](https://github.com/morkt/GARbro) | Visual Novels resource browser |
+| [KrKrExtract](https://github.com/xmoezzz/KrkrExtract) | A tool can extract and pack krkr2 and krkrz's xp3 files |
+
 ## System Tools
 
 | Name | Remark |
