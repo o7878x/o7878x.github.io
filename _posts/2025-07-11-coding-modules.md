@@ -25,6 +25,7 @@ tag:
 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | Official coroutines |
 | [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) | Official serialization |
 | [okhttp](https://github.com/square/okhttp) | Square’s meticulous HTTP client |
+| [Ktor](https://ktor.io/) | Create asynchronous client and server applications |
 
 ## Flutter
 
