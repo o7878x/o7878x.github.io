@@ -121,6 +121,7 @@ tag:
 | [Carnac](https://github.com/Code52/carnac) | Windows Keyboard Display |
 | [Flow Launcher](https://www.flowlauncher.com/) | Quick File Search & App Launcher for Windows |
 | [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | A HDD/SSD utility software |
+| [Fences](https://www.stardock.com/products/fences/) | A commercial product for Windows that helps to organize icons on the desktop |
 
 ## Security And Privacy Tools
 
