@@ -31,11 +31,14 @@ tag:
 
 | Name | Remark |
 | --- | --- |
+| [build_runner](https://pub.dev/packages/build_runner) | A build system for Dart code generation and modular compilation |
 | [Awesome Flutter](https://github.com/Solido/awesome-flutter) | Awesome Flutter |
 | [dart_mappable](https://pub.dev/packages/dart_mappable) | Improved json serialization |
 | [logging](https://pub.dev/packages/logging) | Provides APIs for debugging and error logging |
 | [provider](https://pub.dev/packages/provider) | A wrapper around InheritedWidget to make them easier to use and more reusable |
 | [dio](https://pub.dev/packages/dio) | A powerful HTTP networking package for Dart/Flutter |
+| [flutter_riverpod](https://pub.dev/packages/flutter_riverpod) | A reactive caching and data-binding framework |
+| [go_router](https://pub.dev/packages/go_router) | A declarative routing package |
 
 ## AI
 
