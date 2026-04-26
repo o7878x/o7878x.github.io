@@ -39,6 +39,7 @@ tag:
 | [dio](https://pub.dev/packages/dio) | A powerful HTTP networking package for Dart/Flutter |
 | [flutter_riverpod](https://pub.dev/packages/flutter_riverpod) | A reactive caching and data-binding framework |
 | [go_router](https://pub.dev/packages/go_router) | A declarative routing package |
+| [shared_preferences](https://pub.dev/packages/shared_preferences) | Wraps platform-specific persistent storage for simple data |
 
 ## AI
 
