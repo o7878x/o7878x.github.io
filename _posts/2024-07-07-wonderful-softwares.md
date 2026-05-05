@@ -84,6 +84,7 @@ tag:
 | [Automa](https://chromewebstore.google.com/detail/automa/infppggnoaenmfagbfknfkancpbljcca) | From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want… |
 | [Banana Theme](https://chromewebstore.google.com/detail/banana/cdkecinaonohgbmhojlaeeoalomfhlal) | |
 | [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb?browser=chrome) | |
+| [WebRTC Control](https://chromewebstore.google.com/detail/webrtc-control/fjkmabmdepjfammlpliljpnbhleegehm) | Prevent Browser WebRTC Leaks |
 
 ## Games
 
