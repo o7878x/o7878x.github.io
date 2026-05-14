@@ -151,6 +151,8 @@ tag:
 
 | Name | Remark |
 | --- | --- |
+| [ArchLinux](https://archlinux.org/) | A lightweight and flexible Linux distribution that tries to Keep It Simple |
+| [LinuxMint](https://linuxmint.com/) | Linux kernel operating system |
 | [Debian](https://www.debian.org/) | Linux kernel opearting system |
 | [Ubuntu](https://ubuntu.com/) | Linux kernel operating system |
 
