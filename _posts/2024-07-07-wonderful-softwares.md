@@ -71,7 +71,7 @@ tag:
 | Edge | Microsoft browser based on Chromium |
 | [Brave](https://brave.com/) | Mobile secure web browser |
 
-## Chrome Browser Plugins
+## Chrome Extensions
 
 | Name | Remark |
 | --- | --- |
