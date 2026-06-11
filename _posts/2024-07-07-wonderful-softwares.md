@@ -175,6 +175,14 @@ tag:
 | [OBS Studio](https://obsproject.com/) | Desktop screen recorder |
 | [FFmpeg](https://ffmpeg.org/) | A complete, cross-platform solution to record, convert and stream audio and video |
 
+## AI Tools
+
+| Name | Remark |
+| --- | --- |
+| [Claude Code](https://claude.com/product/claude-code) | Work with Claude directly in your codebase |
+| [CC Switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant |
+| [Blender MCP](https://blendermcp.org/) | Connect AI to Blender 3D through the Model Context Protocol |
+
 ## Other Tools
 
 | Name | Remark |
