@@ -87,6 +87,8 @@ tag:
 | [Banana Theme](https://chromewebstore.google.com/detail/banana/cdkecinaonohgbmhojlaeeoalomfhlal) | |
 | [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb?browser=chrome) | |
 | [WebRTC Control](https://chromewebstore.google.com/detail/webrtc-control/fjkmabmdepjfammlpliljpnbhleegehm) | Prevent Browser WebRTC Leaks |
+| [DeepL](https://chromewebstore.google.com/detail/deepl%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BF%BB%E8%AF%91%E5%99%A8%E5%92%8C%E5%86%99%E4%BD%9C%E5%8A%A9%E6%89%8B/cofdbpoegempjloogbagkncekinflcnj?hl=zh-CN&utm_source=ext_sidebar) | Translate speech, text, and media |
+| [Voyager](https://chromewebstore.google.com/detail/voyager/iifacdnjakkhjjiengaffnegbndgingi?hl=zh-TW) | Make your Gemini experience truly yours |
 
 ## Games
 
