@@ -24,8 +24,10 @@ tag:
 | --- | --- |
 | [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) | Official coroutines |
 | [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) | Official serialization |
+| [retrofit](https://github.com/square/retrofit) | A type-safe HTTP client for Android and the JVM |
 | [okhttp](https://github.com/square/okhttp) | Square’s meticulous HTTP client |
 | [Ktor](https://ktor.io/) | Create asynchronous client and server applications |
+| [Koin](https://insert-koin.io/) | The pragmatic Kotlin dependency injection framework |
 
 ## Flutter
 
