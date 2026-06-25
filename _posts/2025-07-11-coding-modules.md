@@ -28,6 +28,7 @@ tag:
 | [okhttp](https://github.com/square/okhttp) | Square’s meticulous HTTP client |
 | [Ktor](https://ktor.io/) | Create asynchronous client and server applications |
 | [Koin](https://insert-koin.io/) | The pragmatic Kotlin dependency injection framework |
+| [JUnit](https://junit.org/) | The programmer-friendly testing framework for Java and the JVM |
 
 ## Flutter
 
