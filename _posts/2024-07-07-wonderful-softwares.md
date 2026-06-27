@@ -89,6 +89,7 @@ tag:
 | [WebRTC Control](https://chromewebstore.google.com/detail/webrtc-control/fjkmabmdepjfammlpliljpnbhleegehm) | Prevent Browser WebRTC Leaks |
 | [DeepL](https://chromewebstore.google.com/detail/deepl%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BF%BB%E8%AF%91%E5%99%A8%E5%92%8C%E5%86%99%E4%BD%9C%E5%8A%A9%E6%89%8B/cofdbpoegempjloogbagkncekinflcnj?hl=zh-CN&utm_source=ext_sidebar) | Translate speech, text, and media |
 | [Voyager](https://chromewebstore.google.com/detail/voyager/iifacdnjakkhjjiengaffnegbndgingi?hl=zh-TW) | Make your Gemini experience truly yours |
+| [Immersive translate](https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-ai-%E5%8F%8C%E8%AF%AD%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E7%BF%BB%E8%AF%91-%E8%A7%86%E9%A2%91%E7%BF%BB/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?utm_campaign=navigation-bar&utm_medium=language&utm_source=header) | AI Translate |
 
 ## Games
 
