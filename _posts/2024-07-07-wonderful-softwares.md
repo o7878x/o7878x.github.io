@@ -9,6 +9,12 @@ tag:
 - software
 ---
 
+## Shell
+
+| Name | Remark |
+| --- | --- |
+| [Nushell](https://www.nushell.sh/) | A new type of shell |
+
 ## Network Tools
 
 | Name | Remark |
