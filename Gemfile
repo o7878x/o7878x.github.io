@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Jekyll 3.9.x — latest 3.x line for GitHub Pages compatibility
-gem "jekyll", "~> 3.9.5"
+gem "jekyll", "~> 4.4.1"
 
 # Ruby 4.0+ extracted stdlib gems
 gem "csv"
