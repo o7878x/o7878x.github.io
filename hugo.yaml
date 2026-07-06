@@ -6,6 +6,8 @@ defaultContentLanguageInSubdir: false
 title: o7878x's Github Page
 theme: PaperMod
 enableRobotsTXT: true
+hasCJKLanguage: true
+enableGitInfo: true
 
 # Page optimization
 pagination:
