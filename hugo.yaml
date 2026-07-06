@@ -1,14 +1,13 @@
 baseURL: https://o7878x.github.io
 disablePathToLower: true
-locale: en-us
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
 title: o7878x's Github Page
-theme: [PaperMod]
+theme: PaperMod
+enableRobotsTXT: true
 
 # Page optimization
 paginate: 10
-
-minify:
-  disableXML: false
 
 outputs:
   # Archives requires JSON output for search to work
@@ -30,6 +29,10 @@ params:
   showReadingTime: true
   showPostNavLinks: true
   ShowBreadCrumbs: true
+
+  # Favicon
+  assets:
+    favicon: "/favicon.ico"
 
   # Home page Profile Mode with social buttons
   profileMode:
