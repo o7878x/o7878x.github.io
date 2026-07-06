@@ -1,6 +1,7 @@
 baseURL: https://o7878x.github.io
 disablePathToLower: true
 defaultContentLanguage: en
+disqusShortname: o7878x
 defaultContentLanguageInSubdir: false
 title: o7878x's Github Page
 theme: PaperMod
@@ -16,10 +17,26 @@ outputs:
     - "RSS"
     - "JSON"
 
+# Related posts
+related:
+  threshold: 50
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: keywords
+      weight: 100
+    - name: tags
+      weight: 80
+    - name: date
+      weight: 10
+    - name: title
+      weight: 30
+
 params:
   env: "production"
   description: "Personal blog about technology and life"
   author: "o7878x"
+  comments: true
 
   # Navbar and global settings
   defaultTheme: "dark"
@@ -29,6 +46,14 @@ params:
   showReadingTime: true
   showPostNavLinks: true
   ShowBreadCrumbs: true
+  ShowRelatedPosts: true
+
+  # Search (Fuse.js)
+  fuseOpts:
+    shouldSort: true
+    threshold: 0.4
+    location: 0
+    distance: 1000
 
   # Favicon
   assets:
