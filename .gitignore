@@ -1,3 +1,42 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+# Hugo build output
+/public/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Hugo lock file
+.hugo_build.lock
+
+# Hugo resource cache
+/resources/_gen/
+
+# Jekyll legacy
+/_posts/
+/_layouts/
+/_includes/
+/_sass/
+/_data/
+/assets/
+/items/
+/projects/
+/about/
+/404.html
+/Gemfile
+/Gemfile.lock
+/LICENSE
+/README.md
+/_config.yml
+/favicon.ico
+/favicon.png
+/index.html
+/robots.txt
+/tags/
+/posts/
+.editorconfig

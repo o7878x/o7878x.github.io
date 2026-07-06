@@ -1,0 +1,80 @@
+baseURL: https://o7878x.github.io
+disablePathToLower: true
+locale: en-us
+title: o7878x's Github Page
+theme: [PaperMod]
+
+# Page optimization
+paginate: 10
+
+minify:
+  disableXML: false
+
+outputs:
+  # Archives requires JSON output for search to work
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+
+params:
+  env: "production"
+  description: "Personal blog about technology and life"
+  author: "o7878x"
+
+  # Navbar and global settings
+  defaultTheme: "dark"
+  disableThemeToggle: false
+  showShareButtons: true
+  showCodeCopyButtons: true
+  showReadingTime: true
+  showPostNavLinks: true
+  ShowBreadCrumbs: true
+
+  # Home page Profile Mode with social buttons
+  profileMode:
+    enabled: true
+    title: "Initializing... Hello, World!"
+    subtitle: "Long may the sun shine."
+    imageUrl: "https://github.com/o7878x.png" # GitHub avatar
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Avatar"
+
+    # Home page buttons
+    buttons:
+      - name: "Posts"
+        url: "posts/"
+      - name: "About"
+        url: "about/"
+
+  # Social icons - add or remove as needed
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/o7878x"
+    - name: "steam"
+      url: "https://steamcommunity.com/id/o7878x"
+    - name: "email"
+      url: "mailto:o8080x@outlook.com"
+    - name: "twitter"
+      url: "111"
+
+# Menu bar: posts, archives, tags, search
+menu:
+  main:
+    - identifier: "posts"
+      name: "Posts"
+      url: "posts/"
+      weight: 10
+    - identifier: "archives"
+      name: "Archives"
+      url: "archives/"
+      weight: 20
+    - identifier: "tags"
+      name: "Tags"
+      url: "tags/"
+      weight: 30
+    - identifier: "search"
+      name: "Search"
+      url: "search/"
+      weight: 40
