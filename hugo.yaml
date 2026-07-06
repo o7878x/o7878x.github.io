@@ -8,7 +8,8 @@ theme: PaperMod
 enableRobotsTXT: true
 
 # Page optimization
-paginate: 5
+pagination:
+  pagersize: 5
 
 outputs:
   # Archives requires JSON output for search to work
