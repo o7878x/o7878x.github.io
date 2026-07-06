@@ -7,6 +7,7 @@ tags:
 - software
 summary: A list of wonderful softwares
 comments: true
+weight: 1
 ---
 
 ## Shell
