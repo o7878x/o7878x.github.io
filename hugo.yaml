@@ -56,8 +56,6 @@ params:
       url: "https://steamcommunity.com/id/o7878x"
     - name: "email"
       url: "mailto:o8080x@outlook.com"
-    - name: "twitter"
-      url: "111"
 
 # Menu bar: posts, archives, tags, search
 menu:
