@@ -8,6 +8,11 @@ tags:
 summary: A list of wonderful softwares
 comments: true
 weight: 1
+cover:
+  image: "covers/samurai.jpg"
+  alt: "Samurai cover art"
+  caption: "Samurai"
+  relative: false
 ---
 
 ## Shell
