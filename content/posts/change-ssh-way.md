@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Github免密码提交
 date: '2018-10-10T00:00:00Z'
 tags:

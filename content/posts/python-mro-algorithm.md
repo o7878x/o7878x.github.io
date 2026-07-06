@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Python Method Resolution Order Algorithm
 date: '2019-07-29T00:00:00Z'
 summary: To show up the Python MRO algorithm.

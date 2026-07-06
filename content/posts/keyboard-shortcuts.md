@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Keyboard Shortcuts
 date: '2025-04-12T00:00:00Z'
 tags:

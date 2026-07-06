@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Gems镜像源配置
 date: '2018-10-09T00:00:00Z'
 tags:

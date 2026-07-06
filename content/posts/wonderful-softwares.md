@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Wonderful Softwares
 date: '2024-07-07T00:00:00Z'
 tags:
