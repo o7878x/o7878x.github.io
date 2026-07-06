@@ -1,0 +1,43 @@
+# Weekly sync GitHub avatar to local assets for faster loading
+name: Sync GitHub Avatar
+
+on:
+  schedule:
+    - cron: "37 15 * * 0" # Every Sunday at 15:37
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Download current avatar
+        run: curl -sL -o /tmp/avatar_new "https://github.com/o7878x.png"
+
+      - name: Compare with local
+        id: compare
+        run: |
+          if [ -f assets/avatar.jpg ] && cmp -s /tmp/avatar_new assets/avatar.jpg; then
+            echo "No change detected"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            cp /tmp/avatar_new assets/avatar.jpg
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push if changed
+        if: steps.compare.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/avatar.jpg
+          git commit -m "chore: sync GitHub avatar"
+          git push

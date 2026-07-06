@@ -65,7 +65,7 @@ params:
     enabled: true
     title: "Initializing... Hello, World!"
     subtitle: "Long may the sun shine."
-    imageUrl: "https://github.com/o7878x.png" # GitHub avatar
+    imageUrl: "avatar.jpg" # Local avatar, synced via workflow
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Avatar"
