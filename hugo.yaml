@@ -85,6 +85,8 @@ params:
       url: "https://steamcommunity.com/id/o7878x"
     - name: "email"
       url: "mailto:o8080x@outlook.com"
+    - name: "discord"
+      url: "https://discord.com/users/1017036805880684614"
 
 # Menu bar: posts, archives, tags, search
 menu:
