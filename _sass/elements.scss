@@ -94,26 +94,8 @@ hr {
     height: 1px;
     opacity: 0.8;
     margin: 1em 0;
-    background-image: -webkit-linear-gradient(
-        left,
-        $color_gallery,
-        $color_stack,
-        $color_gallery
-    );
-    background-image: -moz-linear-gradient(
-        left,
-        $color_gallery,
-        $color_stack,
-        $color_gallery
-    );
-    background-image: -ms-linear-gradient(
-        left,
-        $color_gallery,
-        $color_stack,
-        $color_gallery
-    );
-    background-image: -o-linear-gradient(
-        left,
+    background-image: linear-gradient(
+        to right,
         $color_gallery,
         $color_stack,
         $color_gallery
@@ -123,26 +105,8 @@ hr {
         height: 1px;
         opacity: 0.15;
         margin: 1em 0;
-        background-image: -webkit-linear-gradient(
-            left,
-            $color_gallery,
-            $color_stack,
-            $color_gallery
-        );
-        background-image: -moz-linear-gradient(
-            left,
-            $color_gallery,
-            $color_stack,
-            $color_gallery
-        );
-        background-image: -ms-linear-gradient(
-            left,
-            $color_gallery,
-            $color_stack,
-            $color_gallery
-        );
-        background-image: -o-linear-gradient(
-            left,
+        background-image: linear-gradient(
+            to right,
             $color_gallery,
             $color_stack,
             $color_gallery
@@ -160,8 +124,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     border: 0;
-    -ms-interpolation-mode: bicubic;
-    image-rendering: optimizeQuality;
 }
 .img-circle {
     border-radius: 50%;
