@@ -12,16 +12,16 @@ sitemap: false
 */
 
 // Partials
-@import "variables";
-@import "mixins";
-@import "normalize";
-@import "site";
-@import "typography";
-@import "elements";
-@import "syntax";
-@import "nav";
-@import "vendor/fonts";
-@import "vendor/font-awesome";
-@import "vendor/animate";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print"
+@use "variables" as *;
+@use "mixins" as *;
+@use "normalize" as *;
+@use "site" as *;
+@use "typography" as *;
+@use "elements" as *;
+@use "syntax" as *;
+@use "nav" as *;
+@use "vendor/fonts" as *;
+@use "vendor/font-awesome" as *;
+@use "vendor/animate" as *;
+@use "vendor/magnific-popup/magnific-popup" as *;
+@use "print" as *;
