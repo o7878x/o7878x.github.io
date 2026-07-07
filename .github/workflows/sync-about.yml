@@ -1,0 +1,66 @@
+# Periodically sync profile README from o7878x/o7878x to about page
+name: Sync Profile README to About
+
+on:
+  schedule:
+    - cron: "17 21 */3 * *" # Every 3 days at 21:17 UTC (05:17 CST+1)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Fetch profile README
+        run: |
+          curl -sL -o /tmp/profile_readme.md \
+            "https://raw.githubusercontent.com/o7878x/o7878x/master/README.md"
+
+      - name: Transform and update about page
+        run: |
+          # Rewrite relative image paths to absolute GitHub raw URLs,
+          # so SVGs (metrics-snake, metrics-stats, etc.) render correctly.
+          sed -i 's|(\./profile/|(https://raw.githubusercontent.com/o7878x/o7878x/master/profile/|g' /tmp/profile_readme.md
+
+          # Strip the leading H1 heading if present — PaperMod already
+          # renders the front-matter title, so "# Hi, I'm o7878x" would
+          # duplicate it.
+          sed -i '1{/^# /d}' /tmp/profile_readme.md
+
+          # Build the new about page: Hugo front matter + README body
+          {
+            echo '---'
+            echo 'title: "About Me"'
+            echo 'url: "/about/"'
+            echo 'summary: "about"'
+            echo '---'
+            echo ''
+            cat /tmp/profile_readme.md
+          } > content/about.md
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet content/about.md; then
+            echo "No change detected"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push if changed
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/about.md
+          git commit -m "chore: sync profile README to about page"
+          git push
