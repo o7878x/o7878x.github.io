@@ -6,7 +6,7 @@ Personal blog built with [Hugo](https://gohugo.io/) and the [PaperMod](https://g
 
 - **Framework**: Hugo (v0.163.3+ extended)
 - **Theme**: PaperMod (git submodule)
-- **Hosting**: GitHub Pages
+- **Hosting**: GitHub Pages, Cloudflare Pages
 - **CI/CD**: GitHub Actions
 
 ## Local Development
@@ -19,6 +19,14 @@ git clone --recurse-submodules git@github.com:o7878x/o7878x.github.io.git
 hugo server
 ```
 
-## License
+## GitHub Actions Workflows
+
+| Workflow | Schedule | Description |
+|---|---|---|
+| **Deploy Hugo** | on push | Build and deploy site to GitHub Pages |
+| **Sync About** | every 3 days (21:17 UTC) | Sync profile README from [o7878x/o7878x](https://github.com/o7878x/o7878x) to about page |
+| **Sync Avatar** | weekly (Sun 15:37 UTC) | Sync GitHub avatar to local assets for faster loading |
+
+All sync workflows automatically trigger the deploy workflow on change.
 
 Content and source code are for personal use.
