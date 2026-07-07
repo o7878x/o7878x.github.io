@@ -31,11 +31,6 @@ jobs:
           # so SVGs (metrics-snake, metrics-stats, etc.) render correctly.
           sed -i 's|(\./profile/|(https://raw.githubusercontent.com/o7878x/o7878x/master/profile/|g' /tmp/profile_readme.md
 
-          # Strip the leading H1 heading if present — PaperMod already
-          # renders the front-matter title, so "# Hi, I'm o7878x" would
-          # duplicate it.
-          sed -i '1{/^# /d}' /tmp/profile_readme.md
-
           # Build the new about page: Hugo front matter + README body
           {
             echo '---'
