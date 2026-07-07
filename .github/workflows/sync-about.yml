@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write  # trigger hugo-deploy after push (GITHUB_TOKEN suppresses push events)
 
 jobs:
   sync:
@@ -64,3 +65,7 @@ jobs:
           git add content/about.md
           git commit -m "chore: sync profile README to about page"
           git push
+
+      - name: Trigger site deploy
+        if: steps.diff.outputs.changed == 'true'
+        run: gh workflow run hugo-deploy.yml --ref master

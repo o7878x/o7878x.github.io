@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write  # trigger hugo-deploy after push (GITHUB_TOKEN suppresses push events)
 
 jobs:
   sync:
@@ -41,3 +42,7 @@ jobs:
           git add assets/avatar.jpg
           git commit -m "chore: sync GitHub avatar"
           git push
+
+      - name: Trigger site deploy
+        if: steps.compare.outputs.changed == 'true'
+        run: gh workflow run hugo-deploy.yml --ref master
