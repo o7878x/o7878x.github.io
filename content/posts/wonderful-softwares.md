@@ -140,6 +140,7 @@ cover:
 | [Flow Launcher](https://www.flowlauncher.com/) | Quick File Search & App Launcher for Windows |
 | [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | A HDD/SSD utility software |
 | [Fences](https://www.stardock.com/products/fences/) | A commercial product for Windows that helps to organize icons on the desktop |
+| [PrivaZer](https://privazer.com/en/download.php) | Very powerful Windows PC cleaner |
 
 ## Security And Privacy Tools
 
