@@ -29,6 +29,7 @@ comments: true
 | [Ktor](https://ktor.io/) | Create asynchronous client and server applications |
 | [Koin](https://insert-koin.io/) | The pragmatic Kotlin dependency injection framework |
 | [JUnit](https://junit.org/) | The programmer-friendly testing framework for Java and the JVM |
+| [MCP SDK](https://github.com/modelcontextprotocol/kotlin-sdk) | Implement MCP clients and servers using a standardized protocol interface |
 
 ## Flutter
 
@@ -52,7 +53,6 @@ comments: true
 | [Google AI Studio](https://aistudio.google.com) | Google AI Studio |
 | [Ollama](https://ollama.com/) | Get up and running with large language models |
 | [Cline](https://cline.bot/) | The Collaborative AI Coder |
-| [Cherry Studio](https://www.cherry-ai.com/) | A desktop client that supports for multiple LLM providers |
 | [LMArea](https://lmarena.ai/) | An open platform for evaluating AI through human preference |
 
 ## Python
