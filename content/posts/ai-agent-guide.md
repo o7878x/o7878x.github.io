@@ -39,6 +39,7 @@ Harness Engineering: <https://openai.com/zh-Hans-CN/index/harness-engineering/>
 | [HowToCook MCP](https://github.com/worryzyy/HowToCook-mcp) | How to cook for Chinese |
 | [Amap MCP](https://lbs.amap.com/api/mcp-server) | Alibaba Amap MCP |
 | [Tavily MCP](https://www.tavily.com/) | MCP for search |
+| [Chrome devtools MCP](chrome-devtools-mcp) | Let agent inspect a live Chrome browser |
 
 ## Skills
 

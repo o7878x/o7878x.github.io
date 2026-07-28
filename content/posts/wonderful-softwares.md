@@ -191,7 +191,6 @@ cover:
 | [OBS Studio](https://obsproject.com/) | Desktop screen recorder |
 | [FFmpeg](https://ffmpeg.org/) | A complete, cross-platform solution to record, convert and stream audio and video |
 
-
 ## Other Tools
 
 | Name | Remark |
