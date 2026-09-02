@@ -203,3 +203,4 @@ cover:
 | [Animeko](https://myani.org/) | Watch anime free |
 | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | Manager Windows Explorer context menu |
 | [Pixelproof](https://github.com/mytechnotalent/pixelproof) | Detect fake, AI-generated, and Photoshopped images in seconds |
+| [Pot](https://github.com/pot-app/pot-desktop) | A cross-platform software for text translation and recognition |
