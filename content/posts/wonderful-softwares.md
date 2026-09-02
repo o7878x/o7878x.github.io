@@ -202,3 +202,4 @@ cover:
 | [Bind](https://www.isc.org/bind/) | A very flexible, full-featured DNS system |
 | [Animeko](https://myani.org/) | Watch anime free |
 | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | Manager Windows Explorer context menu |
+| [Pixelproof](https://github.com/mytechnotalent/pixelproof) | Detect fake, AI-generated, and Photoshopped images in seconds |
