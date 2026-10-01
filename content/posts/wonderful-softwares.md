@@ -183,6 +183,7 @@ cover:
 | Name | Remark |
 | --- | --- |
 | [PocketBase](https://pocketbase.io/) | open source backend in one file |
+| [Firebase CLI](https://firebase.google.com/docs/cli) | test, manage, and deploy your Firebase project from the command line |
 
 ## Media
 
