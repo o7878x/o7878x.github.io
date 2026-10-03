@@ -23,7 +23,7 @@ Harness Engineering: <https://openai.com/zh-Hans-CN/index/harness-engineering/>
 | [DeepSeek](https://www.deepseek.com/) | |
 | [GLM](https://bigmodel.cn/) | |
 
-## Herness
+## Harness
 
 | Harness | Remark |
 | --- | --- |
@@ -49,12 +49,12 @@ Harness Engineering: <https://openai.com/zh-Hans-CN/index/harness-engineering/>
 | [Android Skills](https://github.com/rcosteira79/android-skills) | Third party Android skills |
 | [Compose Skills](https://github.com/aldefy/compose-skill) | Jetpack Compose skills |
 
-## Cli Tools
+## CLI Tools
 
 | Name | Remark |
 | --- | --- |
-| [Android Cli](https://developer.android.com/tools/agents/android-cli) | |
-| [Github Cli](https://cli.github.com/) | |
+| [Android CLI](https://developer.android.com/tools/agents/android-cli) | |
+| [Github CLI](https://cli.github.com/) | |
 
 ## Assistant
 
